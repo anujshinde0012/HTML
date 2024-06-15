@@ -1,4 +1,4 @@
-# html-portfolio
+# HTML PROJECTS
 
 ![LANGUAGE](https://mir-s3-cdn-cf.behance.net/project_modules/disp/33af2611811329.56252ce76a273.gif)
 
